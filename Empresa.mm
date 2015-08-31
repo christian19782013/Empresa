@@ -30,10 +30,9 @@
       Para el 2018 ser la empresa que lidere el mercado ecuatoriano en&#160;el apoyo a las mejores deciciones de carreras universitarias de los aspirantes ecuatorianos.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="18"/>
-<node CREATED="1436320657645" ID="ID_406042809" MODIFIED="1436320682027">
+<node CREATED="1436320657645" HGAP="151" ID="ID_406042809" MODIFIED="1441056504223" VSHIFT="-107">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -43,8 +42,7 @@
       La proyecci&#243;n es trabajar y logra tener un staff de colaboradores de 100 personas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -72,8 +70,7 @@
       Se debe comunicar periodicamente para ver como entienden los
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="bookmark"/>
 </node>
@@ -87,8 +84,7 @@
       Se debe buscar una metodolog&#237;a para actualizarnos constantemente con las t&#233;cnicas que permitan a la organizaci&#243;n tener un mejor ROI .
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="18"/>
 <icon BUILTIN="pencil"/>
 </node>
@@ -124,8 +120,7 @@
       En cualquier caso se debe proyectar para la persona adecuada maneje cada &#225;rea de la organizaci&#243;n.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="18"/>
 </node>
 <node CREATED="1436320969154" HGAP="40" ID="ID_1572392864" MODIFIED="1436321034233" VSHIFT="39">
@@ -138,8 +133,7 @@
       La metodolog&#237;a de trabajo permitir&#225;&#160;que todos losprocesos se manejen en la base de dato y posteriormente se realice el aplicativo en el front-ent
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="18"/>
 </node>
 </node>
